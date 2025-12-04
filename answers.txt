@@ -1,3 +1,7 @@
-Step 1: Lyon, 3ème arrondissement
-Step 2: Paris, Quai de la Marne > 48.89028591269223, 2.383968327573209
-Step 3: Maybe around Laval?
+Step 1: Lyon, 3ème arrondissement  #CORRECT
+Step 2: Paris, Quai de la Marne > 48.89028591269223, 2.383968327573209  #CORRECT
+
+
+Step 3: Maybe around Laval? #### Laval, correct.
+Step 4: ##### 5 Rue des Agials, en retrouvant avec reverse search
+Step 5: #### Données EXIF
